@@ -1,4 +1,4 @@
-Simple Course Registration System (PHP OOP)
+***Simple Course Registration System (PHP OOP)
 A clean, object-oriented PHP course registration system developed in 2016. This project is designed as an educational blueprint for newcomers to learn Object-Oriented Programming (OOP) in PHP and understand how to structure a web application without a full-fledged modern framework.
 
 Built during a time of transition in PHP, it embodies core OOP principles in a way that's easy to grasp, laying the foundation for understanding more complex patterns like MVC later on.
